@@ -55,11 +55,7 @@
 
 // suqare(7)
 
-// function palindromeChecker(string){
 
-//     for(var i=)
-// }
-// palindromeChecker("Madam")
 
 // var str = prompt("Enter a word").toLowerCase() //Umra
 // var reverse = ""
